@@ -1,0 +1,16 @@
+{
+"companyName": "Diego Rios",
+"productName": "Vroom Vroom Car",
+"productVersion": "v1.0",
+"dataUrl": "vroom vroom car.data.unityweb",
+"wasmCodeUrl": "vroom vroom car.wasm.code.unityweb",
+"wasmFrameworkUrl": "vroom vroom car.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
